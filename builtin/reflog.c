@@ -4,7 +4,7 @@
 #include "config.h"
 #include "gettext.h"
 #include "hex.h"
-#include "object-store.h"
+#include "odb.h"
 #include "revision.h"
 #include "reachable.h"
 #include "wildmatch.h"
